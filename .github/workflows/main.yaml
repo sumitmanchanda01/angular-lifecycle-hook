@@ -39,4 +39,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: sumitmanchanda01/Angular-lifecycle:${{ github.sha }}
+          tags: sumitmanchanda01/angular-lifecycle:${{ github.sha }}
